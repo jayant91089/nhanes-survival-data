@@ -1,0 +1,16 @@
+column_name, comment/unit
+sex_isFemale, 1 means female
+age, years
+physical_activity, higher number indicates more active individual
+bmi
+systolic_blood_pressure, mmHg
+pulse_pressure, mmHg
+serum_albumin, g/dL
+alkaline_phosphatase, IU/L
+BUN, mmol/L
+creatinine, mg/dL
+total_bilirubin, mg/dL
+serum_protein, g/dL
+cholesterol, mg/dL
+mort_status, 1=dead; 0 if alive at the end of study period
+exposure, time in years for which an individual was observed
